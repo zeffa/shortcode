@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShortCode</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="data">Data</string>
+    <string name="data_bundle">Data Bundle</string>
+    <string name="sms_bundle">SMS Bundle</string>
+    <string name="kopa_services">Kopa Services</string>
+    <string name="top_up">Top Up</string>
+    <string name="zawadi_point">Zawadi Points</string>
+    <string name="scratch_card_code">Scratch Card Code</string>
+    <string name="check_balance">Check Airtime balance</string>
+
+</resources>
